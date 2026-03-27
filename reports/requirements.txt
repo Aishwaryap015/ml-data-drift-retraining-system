@@ -1,6 +1,0 @@
-pandas
-numpy==1.26.4
-scikit-learn
-matplotlib
-evidently==0.4.16
-joblib
